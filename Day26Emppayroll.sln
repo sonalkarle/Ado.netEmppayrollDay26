@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day26Emppayroll", "Day26Emppayroll\Day26Emppayroll.csproj", "{51EAB166-A3D8-4B84-864A-EA03F801D9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emppayrolltestcase", "Emppayrolltestcase\Emppayrolltestcase.csproj", "{C5D5B2D2-C0DA-4B5F-A5EF-D580EEFDA8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EAB166-A3D8-4B84-864A-EA03F801D9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EAB166-A3D8-4B84-864A-EA03F801D9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EAB166-A3D8-4B84-864A-EA03F801D9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EAB166-A3D8-4B84-864A-EA03F801D9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D5B2D2-C0DA-4B5F-A5EF-D580EEFDA8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D5B2D2-C0DA-4B5F-A5EF-D580EEFDA8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D5B2D2-C0DA-4B5F-A5EF-D580EEFDA8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D5B2D2-C0DA-4B5F-A5EF-D580EEFDA8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E0238A-FEBA-46DB-B7B4-CA2C41404E28}
+	EndGlobalSection
+EndGlobal
